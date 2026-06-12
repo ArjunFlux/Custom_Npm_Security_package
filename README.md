@@ -1,4 +1,5 @@
 NODE-SECURE_SCAN is a node.js package used as a scanner for the package's in a project for the better security and to reduce the load of the packages research the developer has to done .
+
 [!IMPORTANT] How node-secure-scan works : This packages reads the dependences of the project using the package known as fs module and from the array of object the package have it checks the missing packages from the package.json file and suggests the user about the missing yet important packages which can reduce the security of the application . 
 
 ---
